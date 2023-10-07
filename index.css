@@ -1,0 +1,11 @@
+.rock-button {
+  margin-left : 10px;
+  width: 150px;
+  height: 40px;
+  font-size:30px;
+  text-align: center; 
+}
+.flex-container {
+  display: flex;
+  gap: 100px; /* Adjust the spacing between headings as needed */
+}
